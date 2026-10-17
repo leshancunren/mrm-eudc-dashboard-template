@@ -1,0 +1,404 @@
+eua_id,business_unit,type,risk_tier,downstream_use,access_control,change_control,version_control,documentation,independent_review,last_review,attested,new_this_quarter,controls_compliant,review_status
+EUA-0001,Accounting & Finance,Excel workbook,Low,Operational,Y,N,N,Y,Y,2026-05-26,Y,N,Y,Current
+EUA-0002,Operations,Excel workbook,Medium,Management reporting,Y,N,N,Y,Y,2026-09-03,Y,Y,N,Current
+EUA-0003,Risk Management,Excel workbook,Medium,Model input,Y,N,N,Y,Y,2025-12-24,Y,N,N,Current
+EUA-0004,Operations,Excel workbook,Medium,Model input,Y,N,Y,Y,N,2025-12-20,Y,N,N,Current
+EUA-0005,Risk Management,Excel workbook,Medium,Management reporting,Y,N,N,Y,N,2026-04-08,Y,N,N,Current
+EUA-0006,Credit & Collateral,Excel workbook,Low,Management reporting,Y,N,N,Y,N,2025-07-26,Y,N,Y,Current
+EUA-0007,Credit & Collateral,Excel workbook,Medium,Operational,Y,N,Y,Y,Y,2026-09-02,Y,N,N,Current
+EUA-0008,Information Technology,Excel workbook,Medium,Model input,Y,N,Y,Y,N,2026-03-10,Y,N,N,Current
+EUA-0009,Accounting & Finance,Excel workbook,Low,Operational,Y,Y,N,Y,Y,2023-12-12,Y,N,Y,Current
+EUA-0010,Risk Management,Excel workbook,High,Financial reporting,Y,Y,Y,Y,N,2026-04-16,Y,N,N,Current
+EUA-0011,Mortgage Finance (MPF),Excel workbook,Medium,Financial reporting,Y,N,Y,Y,N,2024-12-08,Y,N,N,Current
+EUA-0012,Capital Markets,Excel workbook,Low,Management reporting,Y,N,Y,Y,N,2025-04-15,Y,N,Y,Current
+EUA-0013,Accounting & Finance,Excel workbook,Medium,Model input,Y,N,N,Y,Y,2025-04-20,Y,N,N,Current
+EUA-0014,Mortgage Finance (MPF),Excel workbook,High,Financial reporting,Y,Y,N,N,Y,2026-05-19,Y,N,N,Current
+EUA-0015,Mortgage Finance (MPF),Excel workbook,Medium,Management reporting,Y,N,Y,Y,Y,2026-09-17,Y,N,N,Current
+EUA-0016,Credit & Collateral,Excel workbook,Low,Operational,Y,Y,Y,Y,N,2025-07-01,Y,N,Y,Current
+EUA-0017,Accounting & Finance,Excel workbook,Low,Operational,Y,Y,Y,Y,N,2025-08-05,Y,N,Y,Current
+EUA-0018,Credit & Collateral,R / SAS program,Low,Management reporting,Y,Y,N,Y,Y,2026-06-27,Y,N,Y,Current
+EUA-0019,Accounting & Finance,Excel workbook,Low,Operational,Y,N,Y,Y,N,2025-11-07,Y,N,Y,Current
+EUA-0020,Risk Management,SQL / BI report,Low,Operational,Y,Y,Y,Y,N,2025-11-18,Y,N,Y,Current
+EUA-0021,Credit & Collateral,Python script,Low,Operational,Y,Y,N,Y,N,2023-11-05,Y,Y,Y,Current
+EUA-0022,Risk Management,SQL / BI report,Medium,Operational,Y,Y,N,Y,Y,2025-04-02,Y,N,Y,Current
+EUA-0023,Mortgage Finance (MPF),Access database,Low,Management reporting,Y,N,N,Y,N,2025-06-07,Y,N,Y,Current
+EUA-0024,Treasury,Excel workbook,Medium,Regulatory reporting,Y,Y,N,Y,N,2025-08-31,Y,N,Y,Current
+EUA-0025,Operations,Access database,High,Model input,Y,N,Y,Y,Y,2025-11-03,Y,N,N,Current
+EUA-0026,Treasury,Excel workbook,High,Model input,Y,Y,N,Y,N,2026-01-13,Y,N,N,Current
+EUA-0027,Credit & Collateral,Excel workbook,Medium,Model input,Y,Y,N,Y,N,2025-03-21,Y,N,Y,Current
+EUA-0028,Treasury,Excel workbook,Medium,Model input,Y,Y,N,Y,Y,2026-07-06,Y,N,Y,Current
+EUA-0029,Operations,Excel workbook,Low,Operational,Y,N,Y,Y,N,2024-02-21,Y,N,Y,Current
+EUA-0030,Accounting & Finance,Excel workbook,Low,Management reporting,Y,Y,N,Y,N,2025-08-10,Y,N,Y,Current
+EUA-0031,Treasury,Excel workbook,Medium,Financial reporting,Y,Y,Y,Y,N,2025-11-13,Y,N,Y,Current
+EUA-0032,Risk Management,Excel workbook,Medium,Model input,Y,Y,Y,Y,Y,2024-11-01,Y,N,Y,Current
+EUA-0033,Treasury,Excel workbook,Medium,Operational,Y,Y,Y,Y,N,2025-12-02,Y,N,Y,Current
+EUA-0034,Accounting & Finance,Excel workbook,Medium,Model input,Y,Y,N,Y,N,2025-11-05,Y,N,Y,Current
+EUA-0035,Information Technology,Excel workbook,Medium,Model input,Y,Y,Y,Y,Y,2025-04-20,Y,N,Y,Current
+EUA-0036,Information Technology,Excel workbook,Low,Operational,Y,Y,N,Y,N,2026-04-21,Y,N,Y,Current
+EUA-0037,Risk Management,Excel workbook,High,Financial reporting,Y,Y,Y,N,Y,2026-05-09,Y,N,N,Current
+EUA-0038,Member Services,Excel workbook,High,Financial reporting,Y,Y,Y,Y,Y,2025-11-01,Y,N,Y,Current
+EUA-0039,Accounting & Finance,Excel workbook,Medium,Operational,Y,Y,Y,Y,Y,2025-05-11,Y,N,Y,Current
+EUA-0040,Accounting & Finance,Excel workbook,Medium,Model input,Y,Y,N,Y,N,2025-08-01,Y,N,Y,Current
+EUA-0041,Credit & Collateral,Excel workbook,Low,Operational,Y,Y,Y,Y,N,2026-09-17,Y,N,Y,Current
+EUA-0042,Credit & Collateral,Excel workbook,High,Regulatory reporting,Y,Y,Y,Y,Y,2026-07-21,Y,N,Y,Current
+EUA-0043,Member Services,Excel workbook,High,Model input,Y,Y,Y,Y,Y,2025-09-17,Y,N,Y,Overdue
+EUA-0044,Credit & Collateral,Excel workbook,Low,Operational,Y,Y,N,Y,Y,2024-04-27,Y,N,Y,Current
+EUA-0045,Mortgage Finance (MPF),Excel workbook,High,Regulatory reporting,Y,Y,Y,Y,Y,2026-07-30,Y,N,Y,Current
+EUA-0046,Treasury,Python script,Medium,Financial reporting,Y,Y,N,Y,Y,2025-12-22,Y,Y,Y,Current
+EUA-0047,Accounting & Finance,Excel workbook,Low,Management reporting,Y,N,N,Y,Y,2026-07-23,Y,N,Y,Current
+EUA-0048,Operations,Python script,High,Regulatory reporting,Y,Y,Y,Y,Y,2025-12-11,Y,N,Y,Current
+EUA-0049,Risk Management,SQL / BI report,Low,Management reporting,Y,Y,N,Y,Y,2025-12-11,Y,N,Y,Current
+EUA-0050,Risk Management,Excel workbook,Medium,Management reporting,Y,Y,Y,Y,N,2026-05-13,Y,N,Y,Current
+EUA-0051,Capital Markets,Excel workbook,High,Regulatory reporting,Y,Y,Y,Y,Y,2026-04-29,Y,N,Y,Current
+EUA-0052,Credit & Collateral,SQL / BI report,Low,Operational,Y,N,Y,Y,N,2025-01-12,Y,N,Y,Current
+EUA-0053,Accounting & Finance,Python script,Medium,Management reporting,Y,Y,Y,Y,N,2026-07-06,Y,N,Y,Current
+EUA-0054,Capital Markets,Excel workbook,Low,Operational,Y,Y,N,Y,N,2024-03-13,Y,N,Y,Current
+EUA-0055,Accounting & Finance,Access database,Medium,Regulatory reporting,Y,Y,Y,Y,Y,2024-09-25,Y,N,Y,Overdue
+EUA-0056,Treasury,Excel workbook,Medium,Financial reporting,Y,Y,Y,Y,N,2026-08-31,Y,N,Y,Current
+EUA-0057,Mortgage Finance (MPF),Excel workbook,Medium,Management reporting,Y,Y,Y,Y,N,2025-08-31,Y,N,Y,Current
+EUA-0058,Credit & Collateral,R / SAS program,Medium,Model input,Y,Y,Y,Y,N,2025-09-17,Y,N,Y,Current
+EUA-0059,Capital Markets,Excel workbook,Low,Operational,Y,N,N,Y,Y,2025-03-14,Y,N,Y,Current
+EUA-0060,Community Investment,Excel workbook,Low,Operational,Y,N,Y,Y,Y,2026-08-07,Y,N,Y,Current
+EUA-0061,Capital Markets,Excel workbook,Low,Operational,Y,N,N,Y,N,2023-12-22,Y,N,Y,Current
+EUA-0062,Treasury,Excel workbook,High,Financial reporting,Y,Y,Y,Y,Y,2026-01-24,Y,N,Y,Current
+EUA-0063,Information Technology,Excel workbook,Medium,Model input,Y,Y,Y,Y,Y,2024-08-19,Y,N,Y,Overdue
+EUA-0064,Treasury,SQL / BI report,Medium,Operational,Y,Y,N,Y,N,2025-06-09,Y,N,Y,Current
+EUA-0065,Treasury,R / SAS program,Medium,Model input,Y,Y,Y,Y,Y,2025-02-14,Y,N,Y,Current
+EUA-0066,Member Services,Python script,Medium,Operational,Y,Y,Y,Y,Y,2026-01-06,Y,N,Y,Current
+EUA-0067,Risk Management,Excel workbook,Low,Operational,Y,N,Y,Y,Y,2025-08-24,Y,N,Y,Current
+EUA-0068,Accounting & Finance,Excel workbook,High,Financial reporting,Y,Y,Y,Y,Y,2026-09-20,Y,N,Y,Current
+EUA-0069,Treasury,Excel workbook,Medium,Management reporting,Y,Y,Y,Y,Y,2026-01-15,Y,N,Y,Current
+EUA-0070,Accounting & Finance,Excel workbook,Medium,Management reporting,Y,Y,Y,Y,N,2024-11-24,Y,N,Y,Current
+EUA-0071,Credit & Collateral,Excel workbook,Low,Management reporting,Y,Y,N,Y,Y,2025-04-12,N,N,Y,Current
+EUA-0072,Credit & Collateral,Excel workbook,Medium,Financial reporting,Y,Y,Y,Y,Y,2025-10-09,Y,N,Y,Current
+EUA-0073,Mortgage Finance (MPF),Excel workbook,Medium,Operational,Y,Y,Y,Y,Y,2025-11-25,N,N,Y,Current
+EUA-0074,Mortgage Finance (MPF),Excel workbook,Low,Management reporting,Y,Y,N,Y,Y,2025-08-19,Y,N,Y,Current
+EUA-0075,Credit & Collateral,Excel workbook,Medium,Financial reporting,Y,Y,N,Y,Y,2024-12-21,Y,N,Y,Current
+EUA-0076,Accounting & Finance,Excel workbook,Medium,Regulatory reporting,Y,Y,Y,Y,N,2026-07-25,Y,N,Y,Current
+EUA-0077,Member Services,Excel workbook,Medium,Management reporting,Y,Y,Y,Y,Y,2025-01-18,Y,N,Y,Current
+EUA-0078,Capital Markets,Excel workbook,Low,Operational,Y,Y,Y,Y,N,2024-12-16,Y,N,Y,Current
+EUA-0079,Mortgage Finance (MPF),Excel workbook,Low,Management reporting,Y,Y,Y,Y,N,2024-02-06,Y,N,Y,Current
+EUA-0080,Treasury,Python script,High,Regulatory reporting,Y,Y,Y,Y,Y,2026-03-13,Y,N,Y,Current
+EUA-0081,Information Technology,Excel workbook,Medium,Regulatory reporting,Y,Y,Y,Y,Y,2026-06-30,Y,N,Y,Current
+EUA-0082,Accounting & Finance,Excel workbook,Medium,Management reporting,Y,Y,N,Y,Y,2025-09-20,Y,N,Y,Current
+EUA-0083,Mortgage Finance (MPF),Excel workbook,Low,Operational,Y,Y,N,Y,Y,2024-03-20,Y,N,Y,Current
+EUA-0084,Capital Markets,Excel workbook,Medium,Operational,Y,Y,N,Y,Y,2025-07-27,N,N,Y,Current
+EUA-0085,Credit & Collateral,Python script,Low,Operational,Y,Y,Y,Y,Y,2026-05-17,Y,N,Y,Current
+EUA-0086,Credit & Collateral,R / SAS program,Low,Management reporting,Y,N,Y,Y,Y,2026-06-23,Y,N,Y,Current
+EUA-0087,Credit & Collateral,SQL / BI report,High,Regulatory reporting,Y,Y,Y,Y,Y,2026-05-02,Y,N,Y,Current
+EUA-0088,Credit & Collateral,SQL / BI report,Medium,Management reporting,Y,Y,N,Y,N,2026-07-16,Y,N,Y,Current
+EUA-0089,Treasury,Excel workbook,Low,Management reporting,Y,Y,N,Y,N,2024-07-21,Y,N,Y,Current
+EUA-0090,Operations,Excel workbook,Low,Operational,Y,Y,Y,Y,Y,2025-01-07,Y,N,Y,Current
+EUA-0091,Operations,R / SAS program,Low,Management reporting,Y,N,Y,Y,Y,2024-09-09,Y,N,Y,Current
+EUA-0092,Operations,Access database,High,Model input,Y,Y,Y,Y,Y,2026-01-01,Y,N,Y,Current
+EUA-0093,Capital Markets,R / SAS program,Low,Management reporting,Y,Y,Y,Y,Y,2024-11-22,Y,N,Y,Current
+EUA-0094,Capital Markets,Excel workbook,Low,Management reporting,Y,N,Y,Y,Y,2026-03-07,Y,N,Y,Current
+EUA-0095,Accounting & Finance,SQL / BI report,High,Financial reporting,Y,Y,Y,Y,Y,2026-06-24,Y,N,Y,Current
+EUA-0096,Credit & Collateral,Excel workbook,Low,Operational,Y,N,N,Y,N,2026-01-15,Y,N,Y,Current
+EUA-0097,Operations,Excel workbook,Medium,Financial reporting,Y,Y,Y,Y,Y,2026-01-03,Y,N,Y,Current
+EUA-0098,Mortgage Finance (MPF),Excel workbook,Medium,Management reporting,Y,Y,Y,Y,Y,2026-04-16,Y,Y,Y,Current
+EUA-0099,Credit & Collateral,Access database,Low,Management reporting,Y,Y,Y,Y,N,2023-11-16,Y,N,Y,Current
+EUA-0100,Risk Management,Python script,Medium,Model input,Y,Y,N,Y,N,2026-06-08,Y,N,Y,Current
+EUA-0101,Treasury,Excel workbook,Medium,Management reporting,Y,Y,N,Y,Y,2024-09-04,Y,N,Y,Overdue
+EUA-0102,Credit & Collateral,Excel workbook,Low,Management reporting,Y,N,N,Y,Y,2026-04-20,Y,N,Y,Current
+EUA-0103,Accounting & Finance,Excel workbook,Medium,Management reporting,Y,Y,N,Y,N,2024-11-09,Y,N,Y,Current
+EUA-0104,Member Services,Excel workbook,Low,Operational,Y,N,N,Y,Y,2024-08-26,Y,N,Y,Current
+EUA-0105,Credit & Collateral,Excel workbook,Low,Management reporting,Y,N,Y,Y,N,2025-07-31,Y,N,Y,Current
+EUA-0106,Operations,Excel workbook,Medium,Management reporting,Y,Y,N,Y,Y,2025-11-05,Y,N,Y,Current
+EUA-0107,Treasury,Excel workbook,Low,Operational,Y,N,Y,Y,Y,2024-07-03,Y,N,Y,Current
+EUA-0108,Risk Management,Excel workbook,Medium,Operational,Y,Y,N,Y,N,2025-08-09,Y,N,Y,Current
+EUA-0109,Mortgage Finance (MPF),Excel workbook,Low,Operational,Y,N,Y,Y,Y,2024-09-19,Y,N,Y,Current
+EUA-0110,Accounting & Finance,Excel workbook,Medium,Financial reporting,Y,Y,N,Y,Y,2025-08-02,Y,N,Y,Current
+EUA-0111,Capital Markets,Excel workbook,Medium,Management reporting,Y,Y,N,Y,Y,2026-06-20,Y,N,Y,Current
+EUA-0112,Accounting & Finance,Excel workbook,Medium,Management reporting,Y,Y,N,Y,Y,2026-07-30,Y,Y,Y,Current
+EUA-0113,Risk Management,Python script,Low,Operational,Y,Y,N,Y,Y,2023-11-22,Y,N,Y,Current
+EUA-0114,Capital Markets,Excel workbook,High,Regulatory reporting,Y,Y,Y,Y,Y,2026-06-30,Y,N,Y,Current
+EUA-0115,Risk Management,Excel workbook,Medium,Model input,Y,Y,Y,Y,N,2026-03-02,Y,N,Y,Current
+EUA-0116,Credit & Collateral,Excel workbook,High,Financial reporting,Y,Y,Y,Y,Y,2026-04-12,Y,N,Y,Current
+EUA-0117,Treasury,Python script,Low,Operational,Y,Y,N,Y,N,2025-10-27,N,N,Y,Current
+EUA-0118,Risk Management,Excel workbook,Medium,Management reporting,Y,Y,Y,Y,N,2025-05-24,Y,N,Y,Current
+EUA-0119,Capital Markets,Excel workbook,Low,Management reporting,Y,Y,N,Y,Y,2026-01-11,Y,N,Y,Current
+EUA-0120,Capital Markets,SQL / BI report,Low,Management reporting,Y,Y,N,Y,N,2026-07-04,Y,N,Y,Current
+EUA-0121,Risk Management,Excel workbook,Low,Management reporting,Y,Y,Y,Y,N,2025-01-01,Y,N,Y,Current
+EUA-0122,Risk Management,Excel workbook,Low,Operational,Y,Y,Y,Y,Y,2023-11-24,Y,N,Y,Current
+EUA-0123,Accounting & Finance,Excel workbook,Low,Management reporting,Y,N,Y,Y,Y,2024-02-25,Y,N,Y,Current
+EUA-0124,Operations,Excel workbook,Medium,Management reporting,Y,Y,Y,Y,Y,2025-07-07,Y,N,Y,Current
+EUA-0125,Accounting & Finance,Excel workbook,Low,Operational,Y,N,Y,Y,N,2026-04-05,Y,N,Y,Current
+EUA-0126,Member Services,Excel workbook,Medium,Operational,Y,Y,N,Y,Y,2025-04-22,Y,N,Y,Current
+EUA-0127,Community Investment,Python script,Medium,Regulatory reporting,Y,Y,Y,Y,Y,2024-12-31,Y,N,Y,Current
+EUA-0128,Mortgage Finance (MPF),Excel workbook,Low,Management reporting,Y,Y,N,Y,Y,2025-10-17,Y,N,Y,Current
+EUA-0129,Mortgage Finance (MPF),SQL / BI report,Medium,Regulatory reporting,Y,Y,Y,Y,Y,2026-01-05,Y,N,Y,Current
+EUA-0130,Capital Markets,Python script,Medium,Financial reporting,Y,Y,N,Y,Y,2026-01-03,Y,N,Y,Current
+EUA-0131,Accounting & Finance,Excel workbook,Low,Management reporting,Y,N,N,Y,Y,2024-08-19,Y,N,Y,Current
+EUA-0132,Treasury,Excel workbook,Medium,Management reporting,Y,Y,Y,Y,N,2024-10-25,Y,N,Y,Current
+EUA-0133,Credit & Collateral,Excel workbook,Low,Management reporting,Y,N,Y,Y,N,2026-06-13,Y,N,Y,Current
+EUA-0134,Risk Management,Excel workbook,High,Financial reporting,Y,Y,Y,Y,Y,2025-12-10,Y,N,Y,Current
+EUA-0135,Risk Management,SQL / BI report,Low,Management reporting,Y,Y,N,Y,N,2024-08-21,Y,N,Y,Current
+EUA-0136,Credit & Collateral,Excel workbook,Medium,Management reporting,Y,Y,Y,Y,Y,2026-06-29,Y,N,Y,Current
+EUA-0137,Accounting & Finance,Excel workbook,Low,Operational,Y,N,Y,Y,N,2025-04-19,Y,N,Y,Current
+EUA-0138,Credit & Collateral,Access database,Low,Operational,Y,N,N,Y,N,2025-06-24,Y,N,Y,Current
+EUA-0139,Capital Markets,Python script,Low,Operational,Y,Y,N,Y,N,2025-12-24,Y,N,Y,Current
+EUA-0140,Accounting & Finance,Python script,Low,Operational,Y,Y,Y,Y,N,2025-01-06,Y,N,Y,Current
+EUA-0141,Treasury,Excel workbook,Low,Operational,Y,Y,N,Y,N,2025-07-29,Y,N,Y,Current
+EUA-0142,Accounting & Finance,Excel workbook,Low,Management reporting,Y,Y,N,Y,Y,2025-11-19,Y,N,Y,Current
+EUA-0143,Accounting & Finance,Excel workbook,Low,Operational,Y,Y,N,Y,Y,2025-03-28,Y,N,Y,Current
+EUA-0144,Information Technology,Excel workbook,Low,Operational,Y,N,N,Y,N,2024-03-26,Y,N,Y,Current
+EUA-0145,Risk Management,Excel workbook,High,Financial reporting,Y,Y,Y,Y,Y,2026-05-16,Y,N,Y,Current
+EUA-0146,Capital Markets,Excel workbook,Low,Management reporting,Y,Y,Y,Y,Y,2025-10-29,Y,N,Y,Current
+EUA-0147,Treasury,R / SAS program,Low,Management reporting,Y,Y,N,Y,N,2025-12-03,Y,N,Y,Current
+EUA-0148,Accounting & Finance,Excel workbook,Low,Operational,Y,N,N,Y,Y,2025-09-28,Y,N,Y,Current
+EUA-0149,Accounting & Finance,Excel workbook,Low,Operational,Y,N,N,Y,N,2024-01-16,Y,N,Y,Current
+EUA-0150,Mortgage Finance (MPF),Excel workbook,Medium,Management reporting,Y,Y,N,Y,N,2025-06-01,Y,N,Y,Current
+EUA-0151,Treasury,Python script,High,Financial reporting,Y,Y,Y,Y,Y,2026-06-23,Y,N,Y,Current
+EUA-0152,Credit & Collateral,Excel workbook,High,Regulatory reporting,Y,Y,Y,Y,Y,2026-05-25,Y,N,Y,Current
+EUA-0153,Risk Management,Excel workbook,Low,Operational,Y,N,N,Y,N,2025-03-30,Y,N,Y,Current
+EUA-0154,Mortgage Finance (MPF),Excel workbook,Low,Operational,Y,N,Y,Y,N,2023-10-15,Y,N,Y,Current
+EUA-0155,Information Technology,Excel workbook,Medium,Operational,Y,Y,N,Y,N,2026-06-25,Y,N,Y,Current
+EUA-0156,Community Investment,Excel workbook,Low,Management reporting,Y,Y,Y,Y,N,2025-10-29,Y,N,Y,Current
+EUA-0157,Mortgage Finance (MPF),Excel workbook,Low,Management reporting,Y,N,Y,Y,Y,2024-02-02,Y,N,Y,Current
+EUA-0158,Accounting & Finance,Excel workbook,Medium,Operational,Y,Y,Y,Y,Y,2026-01-24,Y,N,Y,Current
+EUA-0159,Risk Management,Excel workbook,Medium,Regulatory reporting,Y,Y,Y,Y,N,2025-02-19,Y,N,Y,Current
+EUA-0160,Community Investment,Excel workbook,Medium,Model input,Y,Y,Y,Y,Y,2026-04-08,Y,N,Y,Current
+EUA-0161,Credit & Collateral,Excel workbook,Low,Operational,Y,Y,Y,Y,N,2026-06-25,Y,N,Y,Current
+EUA-0162,Mortgage Finance (MPF),SQL / BI report,Low,Management reporting,Y,Y,N,Y,Y,2026-05-08,Y,N,Y,Current
+EUA-0163,Community Investment,R / SAS program,Medium,Operational,Y,Y,N,Y,Y,2026-02-22,Y,N,Y,Current
+EUA-0164,Capital Markets,Excel workbook,High,Model input,Y,Y,Y,Y,Y,2025-10-31,Y,N,Y,Current
+EUA-0165,Treasury,R / SAS program,Low,Operational,Y,N,Y,Y,Y,2025-07-28,Y,N,Y,Current
+EUA-0166,Credit & Collateral,Excel workbook,High,Regulatory reporting,Y,Y,Y,Y,Y,2026-05-10,Y,N,Y,Current
+EUA-0167,Treasury,Excel workbook,Low,Operational,Y,Y,N,Y,N,2023-11-24,Y,N,Y,Current
+EUA-0168,Accounting & Finance,Excel workbook,High,Financial reporting,Y,Y,Y,Y,Y,2026-09-05,Y,N,Y,Current
+EUA-0169,Operations,Excel workbook,Medium,Management reporting,Y,Y,N,Y,Y,2025-05-28,Y,N,Y,Current
+EUA-0170,Mortgage Finance (MPF),Excel workbook,Low,Operational,Y,Y,N,Y,Y,2025-02-09,Y,N,Y,Current
+EUA-0171,Capital Markets,Excel workbook,Low,Operational,Y,Y,N,Y,N,2026-09-12,Y,N,Y,Current
+EUA-0172,Accounting & Finance,Excel workbook,Medium,Management reporting,Y,Y,N,Y,N,2025-05-02,Y,N,Y,Current
+EUA-0173,Risk Management,Excel workbook,High,Regulatory reporting,Y,Y,Y,Y,Y,2025-11-29,Y,N,Y,Current
+EUA-0174,Member Services,Excel workbook,Low,Management reporting,Y,N,Y,Y,Y,2026-04-08,Y,N,Y,Current
+EUA-0175,Accounting & Finance,SQL / BI report,Low,Operational,Y,N,N,Y,Y,2024-06-21,Y,N,Y,Current
+EUA-0176,Member Services,R / SAS program,Low,Management reporting,Y,Y,N,Y,Y,2025-01-08,Y,N,Y,Current
+EUA-0177,Credit & Collateral,Excel workbook,High,Financial reporting,Y,Y,Y,Y,Y,2026-06-25,Y,N,Y,Current
+EUA-0178,Accounting & Finance,Python script,Low,Management reporting,Y,N,Y,Y,N,2026-07-13,Y,N,Y,Current
+EUA-0179,Accounting & Finance,Excel workbook,Low,Operational,Y,Y,N,Y,N,2024-11-27,Y,N,Y,Current
+EUA-0180,Capital Markets,Excel workbook,Medium,Operational,Y,Y,N,Y,N,2026-05-14,Y,N,Y,Current
+EUA-0181,Credit & Collateral,Python script,Low,Operational,Y,Y,Y,Y,Y,2025-11-08,Y,N,Y,Current
+EUA-0182,Mortgage Finance (MPF),Excel workbook,Medium,Operational,Y,Y,Y,Y,N,2026-04-09,Y,N,Y,Current
+EUA-0183,Credit & Collateral,Excel workbook,High,Regulatory reporting,Y,Y,Y,Y,Y,2026-07-30,Y,N,Y,Current
+EUA-0184,Capital Markets,Python script,Low,Management reporting,Y,Y,Y,Y,Y,2025-01-10,Y,N,Y,Current
+EUA-0185,Mortgage Finance (MPF),Excel workbook,Low,Operational,Y,Y,N,Y,Y,2025-07-25,Y,N,Y,Current
+EUA-0186,Community Investment,Excel workbook,Medium,Model input,Y,Y,Y,Y,N,2025-06-30,Y,N,Y,Current
+EUA-0187,Mortgage Finance (MPF),Excel workbook,Medium,Operational,Y,Y,Y,Y,Y,2025-12-31,Y,N,Y,Current
+EUA-0188,Risk Management,Excel workbook,Low,Management reporting,Y,N,N,Y,Y,2024-05-11,Y,N,Y,Current
+EUA-0189,Operations,Python script,Low,Operational,Y,N,N,Y,N,2025-06-09,Y,N,Y,Current
+EUA-0190,Mortgage Finance (MPF),Python script,Low,Management reporting,Y,Y,Y,Y,N,2026-03-04,Y,N,Y,Current
+EUA-0191,Community Investment,Excel workbook,Medium,Management reporting,Y,Y,N,Y,N,2026-01-07,Y,Y,Y,Current
+EUA-0192,Operations,Excel workbook,Low,Operational,Y,Y,N,Y,N,2025-09-11,Y,N,Y,Current
+EUA-0193,Community Investment,Excel workbook,Low,Management reporting,Y,Y,Y,Y,N,2026-07-04,Y,N,Y,Current
+EUA-0194,Credit & Collateral,Excel workbook,High,Model input,Y,Y,Y,Y,Y,2026-06-10,Y,N,Y,Current
+EUA-0195,Accounting & Finance,Excel workbook,Low,Operational,Y,Y,Y,Y,Y,2026-08-19,Y,N,Y,Current
+EUA-0196,Risk Management,Excel workbook,Low,Operational,Y,Y,N,Y,Y,2025-09-09,Y,N,Y,Current
+EUA-0197,Accounting & Finance,R / SAS program,Low,Management reporting,Y,N,N,Y,N,2025-04-21,Y,N,Y,Current
+EUA-0198,Credit & Collateral,Excel workbook,Low,Management reporting,Y,Y,Y,Y,Y,2024-09-29,Y,N,Y,Current
+EUA-0199,Risk Management,Excel workbook,Low,Management reporting,Y,Y,Y,Y,N,2025-06-29,Y,N,Y,Current
+EUA-0200,Information Technology,Excel workbook,Low,Operational,Y,Y,Y,Y,N,2025-08-21,Y,N,Y,Current
+EUA-0201,Accounting & Finance,Access database,Medium,Operational,Y,Y,Y,Y,N,2025-09-24,Y,N,Y,Current
+EUA-0202,Risk Management,Excel workbook,Low,Operational,Y,N,N,Y,N,2024-02-02,Y,N,Y,Current
+EUA-0203,Accounting & Finance,Excel workbook,Medium,Financial reporting,Y,Y,N,Y,N,2025-07-11,Y,N,Y,Current
+EUA-0204,Mortgage Finance (MPF),Excel workbook,Medium,Model input,Y,Y,N,Y,N,2025-09-19,Y,N,Y,Current
+EUA-0205,Credit & Collateral,Excel workbook,Medium,Financial reporting,Y,Y,Y,Y,Y,2024-12-07,Y,N,Y,Current
+EUA-0206,Treasury,Excel workbook,Low,Management reporting,Y,N,N,Y,Y,2024-11-25,Y,Y,Y,Current
+EUA-0207,Operations,Excel workbook,Low,Operational,Y,N,N,Y,Y,2026-08-28,Y,N,Y,Current
+EUA-0208,Capital Markets,Excel workbook,Low,Operational,Y,Y,N,Y,N,2025-05-30,Y,N,Y,Current
+EUA-0209,Capital Markets,Excel workbook,Medium,Financial reporting,Y,Y,N,Y,Y,2025-08-04,Y,N,Y,Current
+EUA-0210,Operations,Excel workbook,Medium,Management reporting,Y,Y,N,Y,N,2026-06-20,Y,N,Y,Current
+EUA-0211,Risk Management,Access database,Low,Operational,Y,N,Y,Y,N,2026-04-12,Y,N,Y,Current
+EUA-0212,Mortgage Finance (MPF),Excel workbook,Low,Operational,Y,N,N,Y,Y,2025-05-29,Y,N,Y,Current
+EUA-0213,Operations,Excel workbook,High,Financial reporting,Y,Y,Y,Y,Y,2025-12-09,Y,N,Y,Current
+EUA-0214,Treasury,Excel workbook,Medium,Regulatory reporting,Y,Y,N,Y,Y,2026-04-05,Y,N,Y,Current
+EUA-0215,Risk Management,SQL / BI report,Low,Management reporting,Y,Y,Y,Y,N,2023-12-06,Y,N,Y,Current
+EUA-0216,Risk Management,Excel workbook,Low,Operational,Y,Y,N,Y,N,2025-09-16,Y,N,Y,Current
+EUA-0217,Risk Management,Python script,Low,Operational,Y,Y,N,Y,N,2024-11-13,Y,N,Y,Current
+EUA-0218,Operations,Excel workbook,Low,Operational,Y,Y,N,Y,Y,2025-07-11,Y,N,Y,Current
+EUA-0219,Mortgage Finance (MPF),Python script,High,Model input,Y,Y,Y,Y,Y,2026-03-31,Y,N,Y,Current
+EUA-0220,Treasury,Python script,Low,Operational,Y,Y,N,Y,N,2025-07-16,Y,N,Y,Current
+EUA-0221,Credit & Collateral,Excel workbook,Low,Operational,Y,Y,Y,Y,Y,2024-09-23,Y,N,Y,Current
+EUA-0222,Operations,Excel workbook,Medium,Financial reporting,Y,Y,N,Y,Y,2024-08-08,Y,N,Y,Overdue
+EUA-0223,Credit & Collateral,Excel workbook,Low,Operational,Y,Y,Y,Y,Y,2025-01-16,Y,N,Y,Current
+EUA-0224,Capital Markets,Python script,High,Model input,Y,Y,Y,Y,Y,2026-08-31,Y,N,Y,Current
+EUA-0225,Accounting & Finance,Access database,Low,Operational,Y,N,Y,Y,Y,2026-09-08,Y,N,Y,Current
+EUA-0226,Treasury,Excel workbook,High,Financial reporting,Y,Y,Y,Y,Y,2025-10-19,Y,Y,Y,Current
+EUA-0227,Treasury,Excel workbook,Low,Operational,Y,N,N,Y,N,2026-04-04,N,N,Y,Current
+EUA-0228,Credit & Collateral,Python script,Low,Operational,Y,Y,N,Y,Y,2025-09-14,Y,N,Y,Current
+EUA-0229,Community Investment,Excel workbook,Low,Management reporting,Y,N,N,Y,Y,2025-12-10,Y,N,Y,Current
+EUA-0230,Operations,Access database,Low,Operational,Y,Y,Y,Y,Y,2024-12-07,Y,N,Y,Current
+EUA-0231,Treasury,Access database,Medium,Operational,Y,Y,N,Y,N,2025-04-29,Y,N,Y,Current
+EUA-0232,Risk Management,Excel workbook,Low,Management reporting,Y,N,Y,Y,N,2024-06-14,Y,N,Y,Current
+EUA-0233,Accounting & Finance,Excel workbook,Medium,Operational,Y,Y,Y,Y,N,2024-11-14,Y,N,Y,Current
+EUA-0234,Information Technology,Excel workbook,Low,Operational,Y,N,Y,Y,Y,2025-11-14,Y,N,Y,Current
+EUA-0235,Risk Management,Excel workbook,Medium,Model input,Y,Y,Y,Y,N,2026-06-22,Y,N,Y,Current
+EUA-0236,Credit & Collateral,Excel workbook,Medium,Regulatory reporting,Y,Y,Y,Y,Y,2025-02-15,Y,N,Y,Current
+EUA-0237,Credit & Collateral,SQL / BI report,Low,Operational,Y,Y,Y,Y,N,2025-11-28,Y,N,Y,Current
+EUA-0238,Mortgage Finance (MPF),Excel workbook,Medium,Financial reporting,Y,Y,N,Y,N,2025-06-06,Y,N,Y,Current
+EUA-0239,Risk Management,Excel workbook,High,Model input,Y,Y,Y,Y,Y,2026-09-04,Y,N,Y,Current
+EUA-0240,Treasury,Excel workbook,Low,Operational,Y,N,N,Y,Y,2024-12-20,Y,N,Y,Current
+EUA-0241,Mortgage Finance (MPF),Excel workbook,Medium,Management reporting,Y,Y,N,Y,Y,2025-02-09,Y,N,Y,Current
+EUA-0242,Mortgage Finance (MPF),Excel workbook,Low,Operational,Y,Y,N,Y,Y,2025-10-20,Y,N,Y,Current
+EUA-0243,Risk Management,Excel workbook,Low,Operational,Y,Y,N,Y,N,2024-11-06,Y,N,Y,Current
+EUA-0244,Credit & Collateral,Excel workbook,Low,Operational,Y,N,N,Y,N,2024-11-09,Y,N,Y,Current
+EUA-0245,Community Investment,SQL / BI report,Medium,Model input,Y,Y,N,Y,N,2025-11-08,Y,N,Y,Current
+EUA-0246,Risk Management,Excel workbook,Low,Operational,Y,Y,Y,Y,N,2025-05-29,Y,Y,Y,Current
+EUA-0247,Operations,Excel workbook,Low,Operational,Y,Y,Y,Y,Y,2026-06-26,Y,N,Y,Current
+EUA-0248,Credit & Collateral,Excel workbook,Medium,Management reporting,Y,Y,Y,Y,N,2025-03-09,Y,N,Y,Current
+EUA-0249,Mortgage Finance (MPF),Excel workbook,High,Regulatory reporting,Y,Y,Y,Y,Y,2025-12-21,Y,N,Y,Current
+EUA-0250,Treasury,Access database,Low,Operational,Y,N,Y,Y,N,2025-05-29,Y,N,Y,Current
+EUA-0251,Credit & Collateral,Excel workbook,Medium,Operational,Y,Y,Y,Y,N,2026-01-03,Y,N,Y,Current
+EUA-0252,Risk Management,Excel workbook,Low,Operational,Y,Y,Y,Y,N,2026-05-15,Y,N,Y,Current
+EUA-0253,Credit & Collateral,Access database,Low,Operational,Y,N,N,Y,N,2024-01-18,Y,N,Y,Current
+EUA-0254,Accounting & Finance,Excel workbook,Low,Management reporting,Y,Y,Y,Y,N,2025-02-04,Y,N,Y,Current
+EUA-0255,Accounting & Finance,Access database,Low,Operational,Y,Y,N,Y,Y,2026-06-21,Y,N,Y,Current
+EUA-0256,Member Services,Excel workbook,Low,Operational,Y,N,Y,Y,Y,2026-04-06,Y,N,Y,Current
+EUA-0257,Capital Markets,Access database,Medium,Model input,Y,Y,Y,Y,N,2026-08-30,Y,N,Y,Current
+EUA-0258,Treasury,Excel workbook,Medium,Management reporting,Y,Y,Y,Y,N,2025-12-27,Y,N,Y,Current
+EUA-0259,Member Services,Excel workbook,Medium,Management reporting,Y,Y,Y,Y,Y,2025-01-21,Y,N,Y,Current
+EUA-0260,Operations,Excel workbook,Low,Operational,Y,N,Y,Y,N,2024-08-07,Y,N,Y,Current
+EUA-0261,Treasury,Excel workbook,Medium,Model input,Y,Y,N,Y,N,2025-06-08,Y,N,Y,Current
+EUA-0262,Accounting & Finance,Excel workbook,Low,Operational,Y,N,N,Y,N,2026-03-20,Y,N,Y,Current
+EUA-0263,Credit & Collateral,Access database,Medium,Regulatory reporting,Y,Y,N,Y,N,2024-07-15,Y,N,Y,Overdue
+EUA-0264,Accounting & Finance,Excel workbook,Low,Operational,Y,N,Y,Y,Y,2025-06-23,Y,N,Y,Current
+EUA-0265,Capital Markets,Excel workbook,Low,Operational,Y,Y,N,Y,Y,2026-06-16,Y,N,Y,Current
+EUA-0266,Credit & Collateral,Excel workbook,Medium,Operational,Y,Y,N,Y,N,2025-05-13,Y,N,Y,Current
+EUA-0267,Treasury,Excel workbook,High,Regulatory reporting,Y,Y,Y,Y,Y,2026-09-18,Y,N,Y,Current
+EUA-0268,Member Services,Python script,Medium,Operational,Y,Y,Y,Y,N,2024-11-21,Y,N,Y,Current
+EUA-0269,Treasury,Excel workbook,Low,Operational,Y,Y,Y,Y,Y,2025-10-10,Y,N,Y,Current
+EUA-0270,Accounting & Finance,Excel workbook,Low,Operational,Y,N,Y,Y,N,2026-07-09,Y,N,Y,Current
+EUA-0271,Capital Markets,Excel workbook,Low,Management reporting,Y,N,N,Y,N,2025-12-08,Y,N,Y,Current
+EUA-0272,Operations,Excel workbook,Low,Operational,Y,N,N,Y,Y,2024-10-25,Y,N,Y,Current
+EUA-0273,Credit & Collateral,Excel workbook,Low,Operational,Y,Y,Y,Y,Y,2026-05-27,Y,N,Y,Current
+EUA-0274,Capital Markets,Excel workbook,Medium,Management reporting,Y,Y,N,Y,Y,2026-04-21,Y,N,Y,Current
+EUA-0275,Credit & Collateral,Excel workbook,Low,Management reporting,Y,Y,Y,Y,N,2024-11-04,Y,N,Y,Current
+EUA-0276,Operations,Excel workbook,Low,Operational,Y,Y,Y,Y,Y,2025-11-10,Y,N,Y,Current
+EUA-0277,Information Technology,Excel workbook,Low,Operational,Y,N,N,Y,Y,2024-01-17,Y,N,Y,Current
+EUA-0278,Operations,Excel workbook,Medium,Financial reporting,Y,Y,N,Y,N,2025-07-05,Y,N,Y,Current
+EUA-0279,Information Technology,Excel workbook,Medium,Regulatory reporting,Y,Y,Y,Y,Y,2026-04-07,Y,N,Y,Current
+EUA-0280,Treasury,SQL / BI report,Medium,Financial reporting,Y,Y,Y,Y,N,2025-06-25,Y,N,Y,Current
+EUA-0281,Operations,Excel workbook,Low,Operational,Y,Y,Y,Y,N,2023-10-08,Y,N,Y,Current
+EUA-0282,Credit & Collateral,Excel workbook,High,Regulatory reporting,Y,Y,Y,Y,Y,2026-08-31,Y,N,Y,Current
+EUA-0283,Community Investment,Excel workbook,High,Regulatory reporting,Y,Y,Y,Y,Y,2025-12-02,Y,N,Y,Current
+EUA-0284,Capital Markets,Excel workbook,Medium,Management reporting,Y,Y,N,Y,N,2026-03-03,Y,N,Y,Current
+EUA-0285,Risk Management,Excel workbook,High,Financial reporting,Y,Y,Y,Y,Y,2026-01-10,Y,N,Y,Current
+EUA-0286,Mortgage Finance (MPF),Excel workbook,Low,Management reporting,Y,Y,N,Y,N,2025-08-23,Y,N,Y,Current
+EUA-0287,Risk Management,Excel workbook,Low,Management reporting,Y,Y,N,Y,Y,2026-05-30,Y,N,Y,Current
+EUA-0288,Accounting & Finance,Excel workbook,High,Regulatory reporting,Y,Y,Y,Y,Y,2026-04-29,Y,N,Y,Current
+EUA-0289,Operations,Excel workbook,High,Model input,Y,Y,Y,Y,Y,2026-09-13,Y,N,Y,Current
+EUA-0290,Accounting & Finance,R / SAS program,High,Financial reporting,Y,Y,Y,Y,Y,2026-07-14,Y,N,Y,Current
+EUA-0291,Community Investment,Excel workbook,Low,Management reporting,Y,Y,N,Y,Y,2025-10-21,Y,N,Y,Current
+EUA-0292,Mortgage Finance (MPF),Access database,High,Financial reporting,Y,Y,Y,Y,Y,2026-09-18,Y,N,Y,Current
+EUA-0293,Accounting & Finance,Excel workbook,Medium,Management reporting,Y,Y,Y,Y,Y,2026-01-13,Y,N,Y,Current
+EUA-0294,Operations,Excel workbook,Low,Operational,Y,N,N,Y,N,2025-01-31,Y,N,Y,Current
+EUA-0295,Community Investment,SQL / BI report,Medium,Management reporting,Y,Y,Y,Y,Y,2025-03-19,Y,N,Y,Current
+EUA-0296,Capital Markets,Excel workbook,High,Model input,Y,Y,Y,Y,Y,2025-09-24,Y,N,Y,Overdue
+EUA-0297,Risk Management,Excel workbook,Medium,Model input,Y,Y,Y,Y,N,2026-08-21,Y,N,Y,Current
+EUA-0298,Treasury,SQL / BI report,Low,Operational,Y,Y,Y,Y,N,2024-02-13,Y,N,Y,Current
+EUA-0299,Risk Management,SQL / BI report,Low,Operational,Y,Y,N,Y,N,2026-06-20,Y,N,Y,Current
+EUA-0300,Credit & Collateral,Excel workbook,Low,Operational,Y,N,N,Y,Y,2026-01-15,Y,N,Y,Current
+EUA-0301,Accounting & Finance,Excel workbook,High,Financial reporting,Y,Y,Y,Y,Y,2025-11-21,Y,N,Y,Current
+EUA-0302,Credit & Collateral,Excel workbook,Low,Management reporting,Y,N,Y,Y,Y,2026-08-14,Y,N,Y,Current
+EUA-0303,Member Services,Excel workbook,Low,Operational,Y,Y,N,Y,N,2024-07-02,Y,N,Y,Current
+EUA-0304,Information Technology,Excel workbook,Low,Operational,Y,Y,Y,Y,Y,2024-04-11,Y,N,Y,Current
+EUA-0305,Operations,Access database,Low,Operational,Y,N,N,Y,Y,2023-10-27,Y,N,Y,Current
+EUA-0306,Capital Markets,Python script,Low,Operational,Y,Y,Y,Y,N,2024-09-04,Y,N,Y,Current
+EUA-0307,Treasury,Excel workbook,Low,Management reporting,Y,Y,Y,Y,N,2025-06-16,Y,N,Y,Current
+EUA-0308,Capital Markets,Excel workbook,High,Financial reporting,Y,Y,Y,Y,Y,2025-10-31,Y,N,Y,Current
+EUA-0309,Treasury,Excel workbook,Low,Management reporting,Y,N,N,Y,N,2025-03-10,Y,N,Y,Current
+EUA-0310,Risk Management,Excel workbook,Medium,Management reporting,Y,Y,Y,Y,Y,2026-09-07,Y,N,Y,Current
+EUA-0311,Accounting & Finance,Excel workbook,Medium,Financial reporting,Y,Y,Y,Y,Y,2026-04-03,Y,N,Y,Current
+EUA-0312,Capital Markets,Access database,Low,Operational,Y,N,Y,Y,N,2025-11-21,Y,N,Y,Current
+EUA-0313,Accounting & Finance,Excel workbook,Low,Management reporting,Y,N,N,Y,N,2025-03-08,Y,N,Y,Current
+EUA-0314,Credit & Collateral,Excel workbook,Medium,Operational,Y,Y,N,Y,N,2025-01-04,Y,N,Y,Current
+EUA-0315,Mortgage Finance (MPF),Excel workbook,Low,Operational,Y,Y,N,Y,Y,2025-01-07,Y,N,Y,Current
+EUA-0316,Risk Management,Excel workbook,Low,Operational,Y,Y,Y,Y,Y,2024-07-28,Y,N,Y,Current
+EUA-0317,Information Technology,Excel workbook,Medium,Model input,Y,Y,N,Y,Y,2026-01-19,Y,N,Y,Current
+EUA-0318,Credit & Collateral,Excel workbook,High,Financial reporting,Y,Y,Y,Y,Y,2026-05-05,Y,N,Y,Current
+EUA-0319,Credit & Collateral,Excel workbook,Medium,Financial reporting,Y,Y,Y,Y,Y,2025-03-05,Y,N,Y,Current
+EUA-0320,Treasury,Excel workbook,Medium,Management reporting,Y,Y,N,Y,N,2025-06-27,Y,N,Y,Current
+EUA-0321,Accounting & Finance,R / SAS program,Medium,Model input,Y,Y,N,Y,N,2024-10-27,Y,N,Y,Current
+EUA-0322,Mortgage Finance (MPF),Excel workbook,Low,Operational,Y,Y,Y,Y,N,2025-03-03,Y,N,Y,Current
+EUA-0323,Operations,Excel workbook,Low,Management reporting,Y,N,N,Y,N,2024-01-21,Y,N,Y,Current
+EUA-0324,Credit & Collateral,Python script,High,Model input,Y,Y,Y,Y,Y,2026-02-21,Y,N,Y,Current
+EUA-0325,Community Investment,Excel workbook,Medium,Management reporting,Y,Y,N,Y,N,2025-04-29,Y,N,Y,Current
+EUA-0326,Accounting & Finance,Access database,Low,Management reporting,Y,Y,N,Y,N,2026-02-05,Y,N,Y,Current
+EUA-0327,Accounting & Finance,Excel workbook,Low,Operational,Y,Y,N,Y,Y,2024-07-12,Y,Y,Y,Current
+EUA-0328,Risk Management,Access database,Medium,Management reporting,Y,Y,N,Y,Y,2025-04-27,Y,N,Y,Current
+EUA-0329,Accounting & Finance,Excel workbook,High,Model input,Y,Y,Y,Y,Y,2025-12-20,Y,N,Y,Current
+EUA-0330,Credit & Collateral,Excel workbook,Low,Operational,Y,N,N,Y,Y,2024-11-13,Y,N,Y,Current
+EUA-0331,Credit & Collateral,Access database,Medium,Regulatory reporting,Y,Y,N,Y,Y,2025-07-11,Y,N,Y,Current
+EUA-0332,Community Investment,Excel workbook,Medium,Model input,Y,Y,Y,Y,N,2024-07-31,Y,N,Y,Overdue
+EUA-0333,Credit & Collateral,Excel workbook,Medium,Financial reporting,Y,Y,N,Y,N,2024-09-03,Y,N,Y,Overdue
+EUA-0334,Operations,SQL / BI report,Low,Operational,Y,Y,Y,Y,Y,2024-10-01,Y,N,Y,Current
+EUA-0335,Accounting & Finance,Excel workbook,Low,Operational,Y,Y,Y,Y,Y,2023-11-30,Y,N,Y,Current
+EUA-0336,Accounting & Finance,Access database,Low,Operational,Y,Y,Y,Y,Y,2024-06-20,Y,N,Y,Current
+EUA-0337,Accounting & Finance,Python script,Low,Operational,Y,Y,N,Y,N,2025-10-06,Y,N,Y,Current
+EUA-0338,Accounting & Finance,Excel workbook,Medium,Model input,Y,Y,N,Y,N,2026-05-30,Y,N,Y,Current
+EUA-0339,Risk Management,Excel workbook,Medium,Operational,Y,Y,Y,Y,N,2025-04-17,Y,N,Y,Current
+EUA-0340,Community Investment,Excel workbook,Low,Operational,Y,Y,Y,Y,N,2023-11-21,Y,N,Y,Current
+EUA-0341,Community Investment,Excel workbook,Low,Management reporting,Y,Y,N,Y,Y,2026-06-26,Y,N,Y,Current
+EUA-0342,Mortgage Finance (MPF),Excel workbook,Low,Management reporting,Y,Y,N,Y,Y,2025-01-05,Y,N,Y,Current
+EUA-0343,Accounting & Finance,Excel workbook,Medium,Management reporting,Y,Y,Y,Y,Y,2026-03-25,Y,N,Y,Current
+EUA-0344,Accounting & Finance,Access database,High,Financial reporting,Y,Y,Y,Y,Y,2026-05-07,Y,N,Y,Current
+EUA-0345,Community Investment,Excel workbook,Low,Operational,Y,N,N,Y,Y,2026-01-15,Y,N,Y,Current
+EUA-0346,Capital Markets,Excel workbook,Low,Operational,Y,Y,Y,Y,Y,2023-10-16,Y,N,Y,Current
+EUA-0347,Accounting & Finance,Excel workbook,Low,Operational,Y,Y,N,Y,N,2024-11-28,Y,N,Y,Current
+EUA-0348,Capital Markets,Excel workbook,Medium,Financial reporting,Y,Y,Y,Y,Y,2024-12-16,Y,N,Y,Current
+EUA-0349,Treasury,Access database,Medium,Model input,Y,Y,Y,Y,Y,2025-08-22,Y,N,Y,Current
+EUA-0350,Treasury,Excel workbook,Low,Operational,Y,N,N,Y,Y,2025-05-20,Y,N,Y,Current
+EUA-0351,Credit & Collateral,Excel workbook,Medium,Regulatory reporting,Y,Y,N,Y,N,2025-11-02,Y,N,Y,Current
+EUA-0352,Treasury,Excel workbook,High,Regulatory reporting,Y,Y,Y,Y,Y,2026-02-18,Y,N,Y,Current
+EUA-0353,Risk Management,Excel workbook,Low,Management reporting,Y,Y,Y,Y,N,2025-06-24,N,N,Y,Current
+EUA-0354,Accounting & Finance,Excel workbook,High,Financial reporting,Y,Y,Y,Y,Y,2026-09-09,Y,N,Y,Current
+EUA-0355,Operations,Excel workbook,Low,Management reporting,Y,Y,Y,Y,Y,2025-02-02,Y,N,Y,Current
+EUA-0356,Accounting & Finance,Excel workbook,Medium,Model input,Y,Y,Y,Y,N,2025-10-12,Y,N,Y,Current
+EUA-0357,Accounting & Finance,Excel workbook,Medium,Model input,Y,Y,Y,Y,N,2025-03-02,Y,N,Y,Current
+EUA-0358,Credit & Collateral,Excel workbook,Low,Operational,Y,Y,Y,Y,Y,2026-07-31,Y,N,Y,Current
+EUA-0359,Credit & Collateral,Excel workbook,High,Model input,Y,Y,Y,Y,Y,2026-07-16,Y,N,Y,Current
+EUA-0360,Treasury,Excel workbook,Medium,Management reporting,Y,Y,N,Y,Y,2025-06-24,Y,N,Y,Current
+EUA-0361,Accounting & Finance,Excel workbook,Low,Management reporting,Y,Y,Y,Y,Y,2025-07-21,Y,N,Y,Current
+EUA-0362,Credit & Collateral,Excel workbook,Medium,Management reporting,Y,Y,Y,Y,N,2024-10-29,Y,N,Y,Current
+EUA-0363,Capital Markets,SQL / BI report,Medium,Financial reporting,Y,Y,N,Y,Y,2025-09-09,Y,N,Y,Current
+EUA-0364,Risk Management,Excel workbook,Low,Operational,Y,N,Y,Y,N,2023-11-05,Y,N,Y,Current
+EUA-0365,Treasury,Excel workbook,Low,Operational,Y,N,Y,Y,N,2025-11-27,Y,N,Y,Current
+EUA-0366,Credit & Collateral,Excel workbook,Low,Operational,Y,Y,Y,Y,N,2024-12-02,Y,N,Y,Current
+EUA-0367,Capital Markets,Excel workbook,Low,Management reporting,Y,N,Y,Y,N,2025-01-20,Y,N,Y,Current
+EUA-0368,Capital Markets,SQL / BI report,Medium,Financial reporting,Y,Y,Y,Y,Y,2025-08-08,Y,N,Y,Current
+EUA-0369,Credit & Collateral,Excel workbook,Low,Operational,Y,N,N,Y,N,2025-12-24,Y,N,Y,Current
+EUA-0370,Member Services,Excel workbook,High,Model input,Y,Y,Y,Y,Y,2026-03-17,Y,N,Y,Current
+EUA-0371,Mortgage Finance (MPF),Python script,High,Regulatory reporting,Y,Y,Y,Y,Y,2026-02-21,Y,Y,Y,Current
+EUA-0372,Treasury,SQL / BI report,Low,Operational,Y,Y,N,Y,Y,2026-03-04,Y,N,Y,Current
+EUA-0373,Capital Markets,Excel workbook,Low,Operational,Y,N,N,Y,N,2026-06-30,Y,N,Y,Current
+EUA-0374,Accounting & Finance,Access database,Low,Management reporting,Y,Y,N,Y,Y,2026-07-02,Y,N,Y,Current
+EUA-0375,Risk Management,Python script,Medium,Operational,Y,Y,N,Y,N,2026-01-30,Y,N,Y,Current
+EUA-0376,Risk Management,SQL / BI report,High,Financial reporting,Y,Y,Y,Y,Y,2026-05-13,Y,N,Y,Current
+EUA-0377,Member Services,Python script,High,Financial reporting,Y,Y,Y,Y,Y,2026-03-26,Y,N,Y,Current
+EUA-0378,Member Services,Excel workbook,Low,Operational,Y,Y,Y,Y,N,2026-06-16,Y,N,Y,Current
+EUA-0379,Information Technology,Python script,Low,Management reporting,Y,Y,Y,Y,N,2024-10-13,Y,N,Y,Current
+EUA-0380,Mortgage Finance (MPF),Excel workbook,Low,Operational,Y,N,Y,Y,N,2025-06-25,Y,N,Y,Current
+EUA-0381,Credit & Collateral,Excel workbook,Low,Operational,Y,N,Y,Y,N,2023-11-25,Y,N,Y,Current
+EUA-0382,Mortgage Finance (MPF),Python script,Medium,Operational,Y,Y,Y,Y,Y,2026-02-22,Y,N,Y,Current
+EUA-0383,Accounting & Finance,Excel workbook,Low,Management reporting,Y,Y,Y,Y,N,2025-04-04,Y,N,Y,Current
+EUA-0384,Capital Markets,Excel workbook,Medium,Operational,Y,Y,Y,Y,Y,2026-07-22,Y,N,Y,Current
+EUA-0385,Capital Markets,Excel workbook,Medium,Management reporting,Y,Y,Y,Y,N,2026-05-03,Y,N,Y,Current
+EUA-0386,Capital Markets,SQL / BI report,Low,Operational,Y,N,Y,Y,Y,2023-10-31,Y,N,Y,Current
+EUA-0387,Mortgage Finance (MPF),Excel workbook,Low,Operational,Y,Y,Y,Y,N,2025-12-04,Y,N,Y,Current
+EUA-0388,Risk Management,Excel workbook,High,Regulatory reporting,Y,Y,Y,Y,Y,2025-07-31,Y,N,Y,Overdue
+EUA-0389,Operations,Access database,Low,Operational,Y,N,Y,Y,N,2024-02-19,Y,N,Y,Current
+EUA-0390,Operations,Excel workbook,High,Model input,Y,Y,Y,Y,Y,2026-07-24,Y,N,Y,Current
+EUA-0391,Mortgage Finance (MPF),Excel workbook,Low,Operational,Y,Y,Y,Y,N,2025-01-06,Y,N,Y,Current
+EUA-0392,Capital Markets,SQL / BI report,Low,Operational,Y,Y,Y,Y,Y,2024-02-04,Y,N,Y,Current
+EUA-0393,Risk Management,Excel workbook,Medium,Regulatory reporting,Y,Y,N,Y,Y,2025-05-29,Y,N,Y,Current
+EUA-0394,Information Technology,R / SAS program,Medium,Management reporting,Y,Y,Y,Y,N,2025-02-20,Y,N,Y,Current
+EUA-0395,Credit & Collateral,Python script,Low,Operational,Y,N,Y,Y,N,2024-11-30,Y,N,Y,Current
+EUA-0396,Treasury,Excel workbook,Medium,Operational,Y,Y,Y,Y,N,2024-11-21,Y,N,Y,Current
+EUA-0397,Mortgage Finance (MPF),Python script,Low,Management reporting,Y,Y,N,Y,Y,2024-07-03,Y,N,Y,Current
+EUA-0398,Operations,Excel workbook,Low,Operational,Y,Y,N,Y,N,2025-10-10,Y,N,Y,Current
+EUA-0399,Treasury,SQL / BI report,High,Regulatory reporting,Y,Y,Y,Y,Y,2025-11-09,Y,N,Y,Current
+EUA-0400,Credit & Collateral,Excel workbook,High,Regulatory reporting,Y,Y,Y,Y,Y,2026-04-10,Y,N,Y,Current
+EUA-0401,Credit & Collateral,Excel workbook,Low,Operational,Y,N,N,Y,Y,2026-05-25,Y,N,Y,Current
+EUA-0402,Treasury,Access database,Medium,Operational,Y,Y,N,Y,N,2025-08-04,Y,N,Y,Current
+EUA-0403,Community Investment,Excel workbook,Low,Operational,Y,Y,N,Y,N,2026-04-09,Y,N,Y,Current

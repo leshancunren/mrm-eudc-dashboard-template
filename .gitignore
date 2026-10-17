@@ -1,0 +1,7 @@
+# Real extracts and generated packs never leave the company
+data/private/
+output/
+*.xlsx
+*.xlsm
+__pycache__/
+.venv/

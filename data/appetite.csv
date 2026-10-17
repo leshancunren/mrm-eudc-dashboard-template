@@ -1,0 +1,8 @@
+kri_id,kri,program,fmt,direction,amber,red,definition
+mc_val_overdue,Mission Critical validations overdue,Model risk,count,higher_worse,0,1,Mission Critical models past their annual validation date.
+pct_val_in_cycle,Models validated within cycle,Model risk,pct,lower_worse,0.95,0.9,Share of inventory not past its validation due date.
+high_findings_past_due,High findings past due,Model risk,count,higher_worse,0,1,High-severity model findings past their remediation date.
+models_monitor_red,Models in red on monitoring,Model risk,count,higher_worse,0,2,Models breaching ongoing-monitoring performance thresholds.
+high_eua_noncompliant_pct,High-risk EUAs with control gaps,EUDC,pct,higher_worse,0.05,0.1,High-risk EUAs missing any required control.
+eua_attest_pct,EUA owner attestation,EUDC,pct,lower_worse,0.98,0.95,EUAs whose owner attested to inventory and controls this cycle.
+eua_unregistered_found,Unregistered EUAs discovered,EUDC,count,higher_worse,5,10,Tools found by discovery scans that were not in the inventory.

@@ -1,0 +1,6 @@
+id,type,item,owner
+1,Decision,"Approve a 60-day extension of the MPF CECL model (M06) validation, now overdue, with monthly back-testing and overlay review as compensating controls.",Model Risk / Accounting
+2,Decision,"Approve continued restricted use of the PLMBS credit model (M14), rated Unsatisfactory, pending redevelopment targeted for Q1 2027.",Credit Risk
+3,Decision,Approve revised remediation dates for two past-due High findings on the prepayment (M02) and risk-based capital (M09) models.,Market Risk
+4,Information,Prepayment model (M02) is red on ongoing monitoring: actual speeds are running above model; a management overlay is in place and the vendor recalibration is in test.,Market Risk
+5,Information,"Five High-risk EUAs have control gaps, two of which feed model inputs; owners have remediation plans due by year-end.",EUDC Program

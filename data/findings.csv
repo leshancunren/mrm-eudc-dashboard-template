@@ -1,0 +1,32 @@
+finding_id,model_id,model_name,severity,source,title,opened,due,days_open,days_past_due,status
+F-001,M02,Mortgage prepayment model,High,FHFA examination,Prepayment model performance thresholds not enforced,2025-10-15,2026-06-30,350,92,Past due
+F-002,M02,Mortgage prepayment model,High,Validation,Calibration does not reflect current refinance incentive,2026-01-20,2026-12-31,253,0,Open
+F-003,M09,Risk-based capital (market risk) model,High,Validation,Insufficient benchmarking of stressed scenarios,2024-11-30,2026-08-31,669,30,Past due
+F-004,M14,Private-label MBS credit cash-flow model,High,Validation,Loss severity assumptions not supported by data,2026-02-28,2027-03-31,214,0,Open
+F-005,M05,Collateral valuation & haircut model,High,Internal Audit,Haircut overrides not independently reviewed,2026-04-15,2026-12-31,168,0,Open
+F-006,M02,Mortgage prepayment model,Medium,Ongoing monitoring,Model documentation incomplete,2026-03-09,2027-01-03,205,0,Open
+F-007,M05,Collateral valuation & haircut model,Medium,Validation,Ongoing monitoring thresholds not defined,2025-09-22,2026-07-19,373,73,Past due
+F-008,M06,MPF loan CECL credit loss model,Medium,Internal Audit,Input data reconciliation not evidenced,2025-11-20,2026-09-16,314,14,Past due
+F-009,M09,Risk-based capital (market risk) model,Medium,Validation,Sensitivity analysis limited,2025-10-27,2026-08-23,338,38,Past due
+F-010,M14,Private-label MBS credit cash-flow model,Medium,Ongoing monitoring,Change log not maintained,2026-08-02,2027-05-29,59,0,Open
+F-011,M14,Private-label MBS credit cash-flow model,Medium,Validation,Assumption review not documented,2026-01-19,2026-11-15,254,0,Open
+F-012,M01,Interest rate risk / market value of equity model,Medium,Ongoing monitoring,Vendor model limitations not assessed,2026-07-06,2027-09-29,86,0,Open
+F-013,M03,Term structure & OAS valuation model,Medium,Validation,Back-testing frequency below standard,2026-07-22,2027-10-15,70,0,Open
+F-014,M04,Member credit risk rating model,Medium,Validation,User access review not performed,2026-04-29,2027-07-23,154,0,Open
+F-015,M06,MPF loan CECL credit loss model,Medium,Ongoing monitoring,Overlay governance not formalized,2025-10-30,2027-01-23,335,0,Open
+F-016,M09,Risk-based capital (market risk) model,Medium,Validation,Model documentation incomplete,2026-07-27,2027-05-23,65,0,Open
+F-017,M11,Advance pricing model,Medium,Internal Audit,Ongoing monitoring thresholds not defined,2025-11-09,2026-09-05,325,25,Past due
+F-018,M13,Counterparty credit exposure model,Medium,Validation,Input data reconciliation not evidenced,2026-01-19,2026-11-15,254,0,Open
+F-019,M16,Deposit behavior model,Medium,Validation,Sensitivity analysis limited,2025-11-02,2026-11-02,332,0,Open
+F-020,M01,Interest rate risk / market value of equity model,Low,Ongoing monitoring,Minor documentation gaps,2026-07-20,2027-10-13,72,0,Open
+F-021,M03,Term structure & OAS valuation model,Low,Validation,Code comments outdated,2025-10-18,2026-07-15,347,77,Past due
+F-022,M07,Liquidity stress testing model,Low,Ongoing monitoring,Model inventory attributes incomplete,2026-07-23,2027-10-16,69,0,Open
+F-023,M08,Derivatives valuation & hedge effectiveness,Low,Validation,Report formatting inconsistencies,2026-08-09,2027-11-02,52,0,Open
+F-024,M10,Retained earnings adequacy model,Low,Validation,Parameter table lacks version history,2025-10-29,2026-07-26,336,66,Past due
+F-025,M12,Funds transfer pricing model,Low,Validation,Minor documentation gaps,2025-09-27,2026-12-21,368,0,Open
+F-026,M15,AHP application scoring model,Low,Validation,Code comments outdated,2025-08-09,2026-08-09,417,52,Past due
+F-027,M17,Financial planning & forecast model,Low,Validation,Model inventory attributes incomplete,2025-11-15,2026-11-15,319,0,Open
+F-028,M18,AML transaction monitoring scenarios,Low,Validation,Report formatting inconsistencies,2026-04-10,2027-01-05,173,0,Open
+F-029,M19,Rate scenario generator,Low,Validation,Parameter table lacks version history,2025-09-18,2026-06-15,377,107,Past due
+F-030,M20,Unsecured credit limit model,Low,Ongoing monitoring,Minor documentation gaps,2025-11-20,2026-11-20,314,0,Open
+F-031,M04,Member credit risk rating model,Low,Ongoing monitoring,Code comments outdated,2025-12-31,2026-12-31,273,0,Open
